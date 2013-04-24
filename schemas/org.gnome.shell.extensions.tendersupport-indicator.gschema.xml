@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist gettext-domain="gnome-tender-indicator">
+	<schema id="org.gnome.shell.extensions.tender-indicator" path="/org/gnome/shell/extensions/tender-indicator/">
+		<key type="s" name="settings-json">
+			<default>'
+				{
+					"tenders": [
+						{
+							"id": 1,
+							"name": "Default",
+							"subdomain": "help",
+							"api_key": "",
+							"autorefresh": true,
+							"autorefresh_interval": 60
+						}
+					]
+				}
+			'</default>
+			<summary>Tender Support accounts</summary>
+			<description>
+				Settings for fetching and displaying Tender Support data
+			</description>
+		</key>
+	</schema>
+</schemalist>

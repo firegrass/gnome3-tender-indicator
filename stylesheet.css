@@ -1,0 +1,7 @@
+.button-box {
+	background-image: url('icons/16x16/tender_bw.png');
+}
+
+.button-box-active {
+	background-image: url('icons/16x16/tender.png');
+}

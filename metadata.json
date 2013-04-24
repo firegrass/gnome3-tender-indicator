@@ -1,0 +1,13 @@
+{
+  "description": "Provides an overview of Tender queues and discussions",
+  "gettext-domain": "gnome-tender-indicator",
+  "name": "Tender Indicator",
+  "settings-schema": "org.gnome.shell.extensions.tender-indicator",
+  "shell-version": [
+    "3.4",
+    "3.6"
+  ],
+  "url": "http://github.com/firegrass",
+  "uuid": "tenderindicator@patrick.qmtech.net",
+  "version": 1
+}
