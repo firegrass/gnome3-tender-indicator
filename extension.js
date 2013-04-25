@@ -35,5 +35,5 @@ function enable () {
 }
 
 function disable () {
-	Main.panel.remove_child (tenderIndicator);
+	tenderIndicator.destroy ();
 }
