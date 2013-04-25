@@ -15,8 +15,9 @@ It's early days. It may not work properly, it may break. I may change how it wor
 
 ## Installation (manually only atm):
 
-1. Copy all files to `~/.local/share/gnome-shell/extensions/tender-indicator@patrick.qmtech.net`
-2. Go to https://extensions.gnome.org/local/ and enable `Tender Indicator`
+1. Copy all files to `~/.local/share/gnome-shell/extensions/tenderindicator@patrick.qmtech.net`
+2. Login and out
+3. Go to https://extensions.gnome.org/local/ and enable `Tender Indicator`
 
 ## Configuration:
 
