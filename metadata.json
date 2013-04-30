@@ -5,7 +5,8 @@
   "settings-schema": "org.gnome.shell.extensions.tender-indicator",
   "shell-version": [
     "3.4",
-    "3.6"
+    "3.6",
+    "3.8"
   ],
   "url": "http://github.com/firegrass",
   "uuid": "tenderindicator@patrick.qmtech.net",
